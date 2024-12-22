@@ -254,7 +254,7 @@ export default function PlayerView({
         />
       </div>
       
-      <div className="h-[calc(100vh-24rem)] min-h-[300px] rounded-xl overflow-hidden shadow-lg">
+      <div className="h-[calc(100vh-25rem)] min-h-[300px] rounded-xl overflow-hidden shadow-lg">
         <MapComponent
           ref={mapRef}
           key={mapKey}
